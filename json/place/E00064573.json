@@ -179,8 +179,8 @@
         "change": {
           "all": 3.12,
           "asian": 0.0,
-          "black": Infinity,
-          "mixed": Infinity,
+          "black": null,
+          "mixed": null,
           "other": 0.0,
           "white": 0.69
         }
@@ -356,8 +356,8 @@
           "all": 3.28,
           "employee": 22.99,
           "inactive": -31.71,
-          "self-employed": Infinity,
-          "student": Infinity,
+          "self-employed": null,
+          "student": null,
           "unemployed": 0.0
         }
       },
@@ -485,16 +485,16 @@
           "train_metro": 1.0
         },
         "change": {
-          "all": Infinity,
-          "bicycle": Infinity,
-          "bus": Infinity,
-          "car_van": Infinity,
-          "foot": Infinity,
-          "home": Infinity,
-          "moto": Infinity,
+          "all": null,
+          "bicycle": null,
+          "bus": null,
+          "car_van": null,
+          "foot": null,
+          "home": null,
+          "moto": null,
           "other": 0.0,
-          "taxi": Infinity,
-          "train_metro": Infinity
+          "taxi": null,
+          "train_metro": null
         }
       },
       "value_rank": {
@@ -603,7 +603,7 @@
         "change": {
           "all": -1.55,
           "owned": -1.35,
-          "rent_free": Infinity,
+          "rent_free": null,
           "rented_private": 70.0,
           "rented_social": -16.67,
           "shared_ownership": -100.0

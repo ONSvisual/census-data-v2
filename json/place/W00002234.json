@@ -174,8 +174,8 @@
         "change": {
           "all": 12.34,
           "asian": 200.0,
-          "black": Infinity,
-          "mixed": Infinity,
+          "black": null,
+          "mixed": null,
           "other": 0.0,
           "white": 8.19
         }
@@ -481,15 +481,15 @@
         },
         "change": {
           "all": 619.05,
-          "bicycle": Infinity,
+          "bicycle": null,
           "bus": 275.0,
           "car_van": 1211.11,
           "foot": 140.0,
           "home": -100.0,
-          "moto": Infinity,
+          "moto": null,
           "other": 0.0,
-          "taxi": Infinity,
-          "train_metro": Infinity
+          "taxi": null,
+          "train_metro": null
         }
       },
       "value_rank": {
@@ -598,7 +598,7 @@
         "change": {
           "all": 10.62,
           "owned": -12.82,
-          "rent_free": Infinity,
+          "rent_free": null,
           "rented_private": 56.25,
           "rented_social": 100.0,
           "shared_ownership": 0.0
